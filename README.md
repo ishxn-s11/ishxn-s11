@@ -1,42 +1,29 @@
-# 🎸 Heyy Gang, I'm Ishan Singh
-
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4F46E5,100:7C3AED&height=220&section=header&text=ISHAN%20SINGH&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Computational%20Science&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
-</a>
+# Ishan Singh
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+AI%2FML+Engineer;Building+Intelligent+%26+Scalable+Systems;Machine+Learning+%7C+Full+Stack+%7C+Cloud;Computational+Science+%7C+Research+%7C+Open+Source" alt="Typing SVG"/>
-</a>
+### `Software Engineering` · `AI / ML` · `Computational Science`
 
-<br/>
+<p>
+  <a href="https://github.com/ishxn-s11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ishan-s25-b82b5037a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ishhx29/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:ishxn.s11@users.noreply.github.com">
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/CS%20%7C%20AI%2FML-4F46E5?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Physics%20%26%20Mathematics-6366F1?style=for-the-badge&logo=wolframmathematica&logoColor=white"/>
-<img src="https://img.shields.io/badge/Research%20Oriented-7C3AED?style=for-the-badge&logo=arxiv&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/ishan-s25-b82b5037a/">
-<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ishxn.s11@users.noreply.github.com">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/ishxn-s11">
-<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/ishhx29/">
-<img src="https://img.shields.io/badge/Instagram-4F46E5?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ishxn-s11&label=PROFILE%20VIEWS&color=4F46E5&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/ishxn-s11?label=FOLLOWERS&style=for-the-badge&color=6366F1"/>
-<img src="https://img.shields.io/github/stars/ishxn-s11?label=STARS&style=for-the-badge&color=7C3AED"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ishxn-s11&label=PROFILE%20VIEWS&color=4F46E5&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/ishxn-s11?label=FOLLOWERS&style=flat-square&color=6366F1" />
+  <img src="https://img.shields.io/github/stars/ishxn-s11?label=STARS&style=flat-square&color=7C3AED" />
+</p>
 
 </div>
 
@@ -44,306 +31,270 @@
 
 ## About
 
-I am a **Computer Science & AI/ML engineer** focused on designing intelligent software systems that combine strong software engineering foundations with machine learning, computational methods, and scientific problem solving.
+> Building intelligent systems where **software engineering, machine learning, and computational science** meet.
 
-My work spans **software engineering, artificial intelligence, machine learning, full-stack development, cloud systems, computational science, geospatial intelligence, remote sensing, and research-oriented engineering**.
+I am a **Computer Science & AI/ML engineer** interested in building reliable software systems, intelligent applications, and research-driven computational solutions.
 
-I enjoy taking problems from an initial hypothesis through **architecture → implementation → experimentation → evaluation → deployment**, with an emphasis on maintainability, measurable performance, and real-world impact.
+My work combines **algorithms, machine learning, deep learning, computer vision, geospatial intelligence, scientific computing, full-stack development, and cloud technologies**.
 
-### Engineering Focus
+I like working across the entire engineering lifecycle:
 
-* **Software Engineering** — algorithms, data structures, system design, APIs, scalable architectures
-* **AI / ML** — machine learning, deep learning, computer vision, NLP, generative AI
-* **Full Stack Development** — React, Next.js, backend APIs, databases, application architecture
-* **Cloud & DevOps** — AWS, Docker, Linux, CI/CD, deployment automation
-* **Scientific Computing** — physics-informed systems, signal processing, computational modeling
-* **Geospatial AI** — satellite imagery, remote sensing, Earth observation, spatial analytics
-* **Research Engineering** — translating scientific problems into computational and ML pipelines
-* **Product Engineering** — building usable, measurable, scalable, and extensible products
+`Problem → Research → Architecture → Implementation → Evaluation → Deployment`
 
-### Open To
+### What I Work On
 
-`Software Engineering` · `AI/ML Engineering` · `Research Engineering` · `Open Source` · `Cloud Engineering` · `AI for Science` · `Internships` · `Collaborative Projects`
+* Software engineering and data structures & algorithms
+* Machine learning and deep learning systems
+* Computer vision and multimodal AI
+* Geospatial AI and remote sensing
+* Scientific and physics-oriented ML
+* Full-stack applications and APIs
+* Cloud, deployment, and developer tooling
+* Research prototypes that can evolve into production systems
+
+### Currently Open To
+
+`Software Engineering` · `AI/ML Engineering` · `Research Engineering` · `Open Source` · `AI for Science` · `Internships`
 
 ---
 
-## Tech Stack
+## ⚡ Engineering Snapshot
+
+| Area          | Focus                                                         |
+| ------------- | ------------------------------------------------------------- |
+| `Software`    | Algorithms · DSA · APIs · System Design · Full Stack          |
+| `AI / ML`     | ML · Deep Learning · Computer Vision · NLP · Generative AI    |
+| `Science`     | Physics · Scientific Computing · Signal Processing            |
+| `Geospatial`  | Remote Sensing · Satellite Imagery · Earth Observation        |
+| `Engineering` | Git · Docker · Cloud · Linux · Automation                     |
+| `Research`    | AI for Science · Multimodal Learning · Computational Research |
+
+---
+
+## 🧠 AI / ML Stack
+
+### Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square" />
+<img src="https://img.shields.io/badge/LightGBM-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/CatBoost-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Optuna-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/SHAP-7C3AED?style=flat-square" />
+</p>
+
+### Data & Scientific Computing
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+</p>
+
+### Geospatial & Remote Sensing
+
+<p>
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white" />
+<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square" />
+<img src="https://img.shields.io/badge/Rasterio-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/GDAL-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/Shapely-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/Xarray-4F46E5?style=flat-square" />
+</p>
+
+---
+
+## 🛠️ Software Engineering Stack
 
 ### Languages
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,sql,matlab&theme=dark"/>
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,sql,matlab&theme=dark" />
+</p>
 
 ### Frontend
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark"/>
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+</p>
 
 ### Backend & Databases
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb,mysql,redis&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb,mysql,redis&theme=dark"/>
+### Cloud / DevOps / Tooling
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,gcp,vscode,postman&theme=dark" />
+</p>
 
-### AI / Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/LightGBM-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CatBoost-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ONNX-312E81?style=for-the-badge&logo=onnx&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Optuna-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SHAP-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LIME-7C3AED?style=for-the-badge"/>
-
-</div>
-
-### Data Science & Scientific Computing
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4F46E5?style=for-the-badge"/>
-
-</div>
-
-### Geospatial, Remote Sensing & Earth Observation
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
-<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Rasterio-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GDAL-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Shapely-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Xarray-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OSMnx-7C3AED?style=for-the-badge"/>
-
-</div>
-
-### Cloud, DevOps & Tooling
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,gcp,vercel,vscode,postman&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-
-</div>
+<p>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+</p>
 
 ---
 
-## AI / ML Expertise
+## 🔬 AI / ML Expertise
 
-| Domain               |      Proficiency      | Details                                                                  |
-| :------------------- | :-------------------: | :----------------------------------------------------------------------- |
-| Machine Learning     |        Advanced       | Supervised learning, feature engineering, model evaluation, optimization |
-| Deep Learning        | Intermediate–Advanced | Neural networks, representation learning, computer vision                |
-| Computer Vision      |        Advanced       | Image processing, classification, detection, segmentation                |
-| Geospatial AI        |        Advanced       | Satellite imagery, remote sensing, spatial analytics                     |
-| Scientific ML        | Intermediate–Advanced | Physics-informed approaches and computational modeling                   |
-| Time-Series Analysis |      Intermediate     | Signal processing, temporal features, anomaly detection                  |
-| AI for Science       |        Advanced       | ML pipelines for astronomy, physics, and environmental intelligence      |
-| Data Science         |        Advanced       | NumPy, Pandas, SciPy, statistical analysis, visualization                |
-| NLP & Transformers   |      Intermediate     | Transformer architectures, Hugging Face ecosystem, NLP pipelines         |
-| Generative AI        |      Intermediate     | LLM workflows, generative models, AI-assisted applications               |
-| ML Engineering       | Intermediate–Advanced | Experiment tracking, model optimization, deployment pipelines            |
-| Explainable AI       |      Intermediate     | SHAP, LIME, feature importance and interpretable modeling                |
+| Domain             |     Level     | What I Build                                      |
+| ------------------ | :-----------: | ------------------------------------------------- |
+| Machine Learning   |    Advanced   | Prediction · Classification · Feature Engineering |
+| Deep Learning      |    Advanced   | Neural Networks · Representation Learning         |
+| Computer Vision    |    Advanced   | Classification · Detection · Image Retrieval      |
+| Geospatial AI      |    Advanced   | Satellite Analysis · Spatial ML                   |
+| Scientific ML      | Intermediate+ | Physics-informed computational models             |
+| Signal Processing  | Intermediate+ | Filtering · Denoising · Time-Series Analysis      |
+| Multimodal AI      |  Intermediate | Cross-modal representation learning               |
+| NLP / Transformers |  Intermediate | Transformer-based AI workflows                    |
+| Generative AI      |  Intermediate | LLM applications · AI-assisted systems            |
+| MLOps              |  Intermediate | Experiment tracking · Model lifecycle             |
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <details>
-<summary><strong>Gravitational Wave Event Detection & Reconstruction</strong></summary>
+<summary><strong>🌌 Gravitational Wave Event Detection & Reconstruction</strong></summary>
 
-### Gravitational Wave Event Detection & Reconstruction
+<br>
 
-An AI-assisted scientific computing pipeline for detecting, denoising, reconstructing, and validating gravitational-wave signals from interferometer data.
+A scientific ML and signal-processing pipeline focused on detecting and reconstructing gravitational-wave events from interferometer data.
 
-| Metric          | Engineering Scope                                                                            |
-| :-------------- | :------------------------------------------------------------------------------------------- |
-| **Stack**       | Python · NumPy · SciPy · GWPy · PyCBC · Astropy · Matplotlib                                 |
-| **Scale**       | Scientific signal-processing pipeline for interferometer time-series data                    |
-| **Performance** | PSD estimation · filtering · matched filtering · statistical validation                      |
-| **Security**    | Reproducible local processing · isolated research environment                                |
-| **Impact**      | Makes gravitational-wave detection workflows accessible through computational and ML methods |
-| **Repository**  | [GitHub](https://github.com/ishxn-s11)                                                       |
+|                 |                                                 |
+| --------------- | ----------------------------------------------- |
+| **Stack**       | Python · NumPy · SciPy · GWPy · PyCBC · Astropy |
+| **Domain**      | AI for Science · Physics · Signal Processing    |
+| **Core**        | Denoising · PSD · Matched Filtering · Detection |
+| **Data**        | LIGO open gravitational-wave data               |
+| **Engineering** | Reproducible scientific processing pipeline     |
+| **Status**      | Active Research Project                         |
 
-### Engineering Scope
+### What it does
 
-* Interferometer signal preprocessing and normalization
-* Noise characterization and power spectral density estimation
-* Signal denoising and reconstruction
-* Matched-filter based event detection
-* Template-based gravitational-wave analysis
-* Statistical validation and visualization
-* Research-oriented experimentation around real detector data
-* Designed toward integration with streaming scientific data pipelines
+* Processes real interferometer time-series data
+* Characterizes detector noise
+* Estimates power spectral density
+* Performs signal preprocessing and denoising
+* Uses matched-filter based detection
+* Reconstructs candidate gravitational-wave signals
+* Produces before/after scientific visualizations
+* Designed for future streaming-data integration
+
+**Focus:** `Scientific ML` `Signal Processing` `Astrophysics` `Python`
 
 </details>
 
 <details>
-<summary><strong>AI / ML Urban Heat Intelligence Platform</strong></summary>
+<summary><strong>🌡️ AI / ML Urban Heat Intelligence Platform</strong></summary>
 
-### AI / ML Urban Heat Intelligence Platform
+<br>
 
-A geospatial AI system designed to identify urban heat hotspots, analyze environmental drivers, and support data-driven mitigation strategies using satellite, meteorological, and urban morphology data.
+A geospatial AI platform combining satellite imagery, meteorological data, and urban morphology to identify urban heat hotspots and analyze possible mitigation strategies.
 
-| Metric          | Engineering Scope                                                           |
-| :-------------- | :-------------------------------------------------------------------------- |
-| **Stack**       | Python · Google Earth Engine · Landsat · Sentinel-2 · ECOSTRESS · ERA5 · ML |
-| **Scale**       | Multi-source geospatial and environmental data pipeline                     |
-| **Performance** | Spatial feature engineering · hotspot detection · predictive modeling       |
-| **Security**    | API credentials isolation · configuration-based access                      |
-| **Impact**      | Supports urban heat analysis and evidence-based cooling interventions       |
-| **Repository**  | [GitHub](https://github.com/ishxn-s11)                                      |
+|                 |                                                      |
+| --------------- | ---------------------------------------------------- |
+| **Stack**       | Python · Google Earth Engine · ML · Remote Sensing   |
+| **Data**        | Landsat · Sentinel-2 · ECOSTRESS · ERA5              |
+| **Domain**      | Climate Intelligence · Geospatial AI                 |
+| **Core**        | Hotspot Detection · Feature Engineering · Prediction |
+| **Engineering** | Multi-source geospatial processing                   |
+| **Status**      | Active Development                                   |
 
-### Engineering Scope
+### What it does
 
-* Satellite-based land-surface temperature analysis
-* Multi-source remote sensing data integration
-* Meteorological feature engineering
-* Urban morphology analysis
-* AI/ML-based heat hotspot detection
-* Physics-informed analysis of heat drivers
-* Scenario-based cooling intervention analysis
-* Geospatial visualization and decision-support workflows
+* Processes satellite-derived environmental variables
+* Generates land-surface temperature information
+* Integrates meteorological datasets
+* Analyzes urban morphology
+* Identifies high-risk heat zones
+* Studies environmental drivers
+* Supports simulation of mitigation interventions
+* Provides a decision-support foundation for urban planning
 
-</details>
-
-<details>
-<summary><strong>Cross-Modal Satellite Image Retrieval</strong></summary>
-
-### Cross-Modal Satellite Image Retrieval
-
-A multi-modal remote sensing retrieval system designed to learn shared representations across different satellite sensors and enable same-modal as well as cross-modal image retrieval.
-
-| Metric          | Engineering Scope                                                            |
-| :-------------- | :--------------------------------------------------------------------------- |
-| **Stack**       | Python · PyTorch · Computer Vision · Remote Sensing · Deep Learning          |
-| **Scale**       | Multi-sensor satellite imagery and learned embedding space                   |
-| **Performance** | Representation learning · semantic retrieval · cross-modal matching          |
-| **Security**    | Reproducible dataset and model pipelines                                     |
-| **Impact**      | Enables intelligent discovery across heterogeneous satellite imagery         |
-| **Repository**  | [GitHub](https://github.com/ishxn-s11/Cross-Modal-Satellite-Image-Retrieval) |
-
-### Engineering Scope
-
-* Multi-sensor remote sensing representation learning
-* Shared embedding-space design
-* Same-modal retrieval
-* Cross-modal retrieval
-* Deep feature extraction
-* Similarity-based image search
-* Evaluation of learned representations
-* Research-oriented architecture for scalable remote sensing retrieval
+**Focus:** `Geospatial AI` `Earth Observation` `Climate ML` `Remote Sensing`
 
 </details>
 
 <details>
-<summary><strong>PayFence — AI Payment Policy Guard</strong></summary>
+<summary><strong>🛰️ Cross-Modal Satellite Image Retrieval</strong></summary>
 
-### PayFence — AI Payment Policy Guard
+<br>
 
-A policy-enforcement layer for autonomous payment systems that validates AI-generated payment intent against configurable policies before transaction settlement.
+A deep-learning retrieval system designed to learn a shared representation space across heterogeneous satellite sensors.
 
-| Metric          | Engineering Scope                                                    |
-| :-------------- | :------------------------------------------------------------------- |
-| **Stack**       | Python · APIs · AI Agents · Payment Systems · Policy Engine          |
-| **Scale**       | Rule-driven autonomous payment authorization architecture            |
-| **Performance** | Real-time policy validation before settlement                        |
-| **Security**    | Spending limits · allowlists · frequency rules · risk policies       |
-| **Impact**      | Adds deterministic governance and auditability to AI-driven payments |
-| **Repository**  | [GitHub](https://github.com/ishxn-s11)                               |
+|                  |                                                  |
+| ---------------- | ------------------------------------------------ |
+| **Stack**        | Python · PyTorch · Computer Vision               |
+| **Domain**       | Remote Sensing · Multimodal AI                   |
+| **Core**         | Embeddings · Retrieval · Representation Learning |
+| **Data**         | Multi-sensor satellite imagery                   |
+| **Architecture** | Shared cross-modal representation space          |
+| **Status**       | Research / Development                           |
 
-### Engineering Scope
+### What it does
 
-* User authorization and payment intent validation
-* AI-generated spend-intent interpretation
-* Configurable policy enforcement
-* Merchant allowlists and transaction constraints
-* Spending and budget controls
-* Payment discovery and delegated payment architecture
-* Settlement verification
-* Audit-oriented transaction records
-* INR-oriented payment policy architecture
+* Learns representations from multiple satellite modalities
+* Supports same-modal image retrieval
+* Supports cross-modal retrieval
+* Extracts deep visual embeddings
+* Measures similarity between sensor modalities
+* Builds toward scalable multimodal remote-sensing search
+
+**Repository:** [Cross-Modal Satellite Image Retrieval](https://github.com/ishxn-s11/Cross-Modal-Satellite-Image-Retrieval)
+
+**Focus:** `PyTorch` `Computer Vision` `Multimodal Learning` `Remote Sensing`
+
+</details>
+
+<details>
+<summary><strong>💳 PayFence — AI Payment Policy Guard</strong></summary>
+
+<br>
+
+A policy-enforcement layer for autonomous payment systems designed to validate AI-generated payment intent before settlement.
+
+|              |                                                   |
+| ------------ | ------------------------------------------------- |
+| **Stack**    | Python · APIs · AI Agents · Policy Engine         |
+| **Domain**   | AI Agents · FinTech · Security                    |
+| **Core**     | Policy Validation · Risk Controls · Audit         |
+| **Currency** | INR-oriented payment architecture                 |
+| **Security** | Spending Limits · Allowlists · Frequency Controls |
+| **Status**   | Product / Hackathon Project                       |
+
+### What it does
+
+* Validates user authorization
+* Interprets AI-generated payment intent
+* Applies configurable spending policies
+* Checks merchant allowlists
+* Enforces transaction-frequency rules
+* Applies budget and risk constraints
+* Validates transactions before settlement
+* Maintains verification and audit-oriented records
+
+**Focus:** `AI Agents` `Policy Enforcement` `FinTech` `Security`
 
 </details>
 
 ---
 
-## Experience
-
-### AI / ML Engineering & Research Projects
-
-**Independent Engineering & Research Projects**
-`2025 — Present`
-
-Engineering and research work spanning AI/ML, scientific computing, geospatial intelligence, remote sensing, and software systems.
-
-**Scope of Work**
-
-* Design end-to-end ML and data-processing pipelines
-* Build research prototypes into structured software systems
-* Work with scientific and geospatial datasets
-* Develop computer vision and representation-learning workflows
-* Implement algorithms for signal processing and computational science
-* Design APIs and modular application architectures
-* Evaluate models using quantitative metrics
-* Document experiments and engineering decisions
-* Explore AI applications across physics, Earth observation, and environmental systems
-
-**Skills**
-
-`Python` `C++` `Machine Learning` `Deep Learning` `Computer Vision` `Remote Sensing` `Scientific Computing` `Data Engineering` `Git` `Research`
-
----
-
-## Achievements
-
-<div align="center">
-
-|         Recognition         | Details                                                                                            |
-| :-------------------------: | :------------------------------------------------------------------------------------------------- |
-| **Competitive Programming** | Consistent LeetCode problem solving across algorithms and data structures                          |
-|     **AI / ML Projects**    | Built research-oriented systems across computer vision, geospatial intelligence, and scientific ML |
-|   **Research Engineering**  | Developed computational approaches for physics and Earth-observation problems                      |
-|       **Open Source**       | Maintains and develops public engineering and research projects on GitHub                          |
-|  **Hackathon Engineering**  | Designed production-oriented AI, payment, and intelligent-system architectures                     |
-
-</div>
-
----
-
-## Coding Profiles
+## 💻 Coding Profiles
 
 ### LeetCode
 
@@ -353,13 +304,15 @@ Engineering and research work spanning AI/ML, scientific computing, geospatial i
 <img src="https://img.shields.io/badge/LeetCode-2hWh07Dv3F-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
 <img src="https://leetcard.jacoblin.cool/2hWh07Dv3F?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="90%"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=2hWh07Dv3F&theme=dark&border=border&animated=true" width="90%"/>
+<a href="https://leetcode.com/u/2hWh07Dv3F/">
+<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
 
@@ -371,17 +324,16 @@ Engineering and research work spanning AI/ML, scientific computing, geospatial i
 <img src="https://img.shields.io/badge/HackerRank-ishxn__s11-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-Algorithms-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithms-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
-<br/><br/>
+<br><br>
 
 <a href="https://www.hackerrank.com/profile/ishxn_s11">
-<img src="https://img.shields.io/badge/View%20Full%20HackerRank%20Profile-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20HackerRank%20Profile-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </div>
@@ -394,49 +346,32 @@ Engineering and research work spanning AI/ML, scientific computing, geospatial i
 <img src="https://img.shields.io/badge/Kaggle-ishxns11-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Kaggle-Machine%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-Computer%20Vision-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 
-<br/><br/>
+<br><br>
 
 <a href="https://www.kaggle.com/ishxns11">
-<img src="https://img.shields.io/badge/View%20Full%20Kaggle%20Profile-4F46E5?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Kaggle%20Profile-4F46E5?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-
-</div>
-
-### Coding Platform Overview
-
-<div align="center">
-
-|    Platform    |                          Profile                          | Focus                                         |
-| :------------: | :-------------------------------------------------------: | :-------------------------------------------- |
-|  **LeetCode**  |      [2hWh07Dv3F](https://leetcode.com/u/2hWh07Dv3F/)     | DSA · Algorithms · Competitive Programming    |
-| **HackerRank** | [ishxn_s11](https://www.hackerrank.com/profile/ishxn_s11) | Algorithms · Python · SQL                     |
-|   **Kaggle**   |        [ishxns11](https://www.kaggle.com/ishxns11)        | AI/ML · Data Science · Computer Vision        |
-|   **GitHub**   |         [ishxn-s11](https://github.com/ishxn-s11)         | Software Engineering · Open Source · Research |
 
 </div>
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishxn-s11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ishxn-s11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&include_all_commits=true&count_private=true" height="180"/>
 
 <img src="https://streak-stats.demolab.com?user=ishxn-s11&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=6366F1&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" height="180"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishxn-s11&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=10" height="180"/>
 
@@ -444,7 +379,7 @@ Engineering and research work spanning AI/ML, scientific computing, geospatial i
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -454,7 +389,7 @@ Engineering and research work spanning AI/ML, scientific computing, geospatial i
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -464,90 +399,71 @@ Engineering and research work spanning AI/ML, scientific computing, geospatial i
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ishxn-s11/ishxn-s11/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishxn-s11/ishxn-s11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishxn-s11/ishxn-s11/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ishxn-s11/ishxn-s11/output/github-contribution-grid-snake.svg" width="95%">
+</picture>
 
 </div>
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 ```yaml
 current_focus:
+
   learning:
     - Advanced Data Structures & Algorithms
     - System Design
     - Deep Learning
     - Computer Vision
-    - Cloud Architecture
-    - Scientific Machine Learning
     - MLOps
+    - Cloud Architecture
 
   building:
     - AI/ML research systems
     - Geospatial intelligence platforms
     - Scientific computing pipelines
+    - Multimodal retrieval systems
     - Intelligent full-stack applications
-    - Multimodal AI systems
-    - Production-oriented developer tools
 
   exploring:
     - AI for Science
     - Gravitational Wave Detection
     - Remote Sensing
+    - Physics-Informed Machine Learning
     - Multimodal AI
     - AI Agents
-    - Physics-Informed Machine Learning
-    - Generative AI
 
   open_to:
-    - Software Engineering Opportunities
+    - Software Engineering
     - AI/ML Engineering
     - Research Engineering
-    - Open Source Collaboration
-    - AI for Science Projects
-    - High-impact Technical Internships
+    - Open Source
+    - AI for Science
+    - Technical Internships
 ```
 
 ---
 
-## Connect
+## 🌐 Connect
 
 <div align="center">
 
-<a href="mailto:ishxn.s11@users.noreply.github.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ishan-s25-b82b5037a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ishxn-s11">
-<img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/ishhx29/">
-<img src="https://img.shields.io/badge/Instagram-Follow-7C3AED?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/2hWh07Dv3F/">
-<img src="https://img.shields.io/badge/LeetCode-2hWh07Dv3F-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/ishxn_s11">
-<img src="https://img.shields.io/badge/HackerRank-ishxn__s11-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/ishxns11">
-<img src="https://img.shields.io/badge/Kaggle-ishxns11-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+|    Platform    | Profile                                                         |
+| :------------: | :-------------------------------------------------------------- |
+|   **GitHub**   | [ishxn-s11](https://github.com/ishxn-s11)                       |
+|  **LinkedIn**  | [Ishan Singh](https://www.linkedin.com/in/ishan-s25-b82b5037a/) |
+|  **Instagram** | [@ishhx29](https://www.instagram.com/ishhx29/)                  |
+|  **LeetCode**  | [2hWh07Dv3F](https://leetcode.com/u/2hWh07Dv3F/)                |
+| **HackerRank** | [ishxn_s11](https://www.hackerrank.com/profile/ishxn_s11)       |
+|   **Kaggle**   | [ishxns11](https://www.kaggle.com/ishxns11)                     |
 
 </div>
 
@@ -555,12 +471,10 @@ current_focus:
 
 <div align="center">
 
-> **Build with engineering discipline. Learn with scientific curiosity. Create with measurable impact.**
+### `Engineering systems. Training intelligence. Exploring science.`
 
-<br/>
+<br>
 
-<a href="https://capsule-render.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:312E81&height=120&section=footer&animation=twinkling" width="100%"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4F46E5,100:7C3AED&height=120&section=footer" width="100%"/>
 
 </div>
