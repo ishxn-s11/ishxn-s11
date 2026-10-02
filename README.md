@@ -437,10 +437,6 @@ A collection of certificates and learning credentials from courses, programs, ch
 
 ### TB Mukt Bharat Abhiyan — Quiz Certificate
 
-<td colspan="2" align="center">
-
-### TB Mukt Bharat Abhiyan — Quiz Certificate
-
 [![Certificate](https://img.shields.io/badge/OPEN_CERTIFICATE-PNG-22C55E?style=for-the-badge&logo=image&logoColor=white)](./certs/Quiz%20on%20TB%20Mukt%20Bharat%20Abhiyan_Certificate_Ishan%20Singh.png)
 
 </tr>
