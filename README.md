@@ -335,7 +335,9 @@ Once card.svg exists in the repository, you can replace or supplement the stats 
 
 <div align="center>
   
-![Coverage](https://raw.githubusercontent.com/ishxn-s11/deep-ml/main/coverage.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishxn-s11/deep-ml/main/coverage.svg" alt="Deep-ML Coverage" />
+</p>
 
 </div>
 
