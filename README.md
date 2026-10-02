@@ -333,6 +333,8 @@ Once card.svg exists in the repository, you can replace or supplement the stats 
 
 </div>
 
+<br>
+
 <div align="center>
   
 <p align="center">
