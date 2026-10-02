@@ -333,82 +333,120 @@ Once card.svg exists in the repository, you can replace or supplement the stats 
 
 </div>
 
----
-
 ## 07 — CERTIFICATES
 
 <div align="center">
 
-### [View Certificates](#certificate-gallery)
-
-</div>
-
-<details id="certificate-gallery">
-<summary><strong>View Certificates</strong></summary>
+A collection of certificates and learning credentials from courses, programs, challenges, and technical activities.
 
 <br/>
 
-> Upload your certificate images to:
->
-> `assets/certificates/`
->
-> Then replace the sample file names below with your actual certificate image names.
+<a href="./certs/">
+  <img src="https://img.shields.io/badge/VIEW_ALL_CERTIFICATES-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View all certificates"/>
+</a>
+
+</div>
+
+<br/>
 
 <table>
+
 <tr>
+
 <td width="50%" align="center">
 
 ### Certificate 01
 
-<img src="./assets/certificates/certificate-01.png" width="100%" alt="Certificate 01"/>
+[![PDF](https://img.shields.io/badge/OPEN_CERTIFICATE-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./certs/1c651850-53df-4009-ac4d-69e237198134.pdf)
 
 </td>
+
 <td width="50%" align="center">
 
 ### Certificate 02
 
-<img src="./assets/certificates/certificate-02.png" width="100%" alt="Certificate 02"/>
+[![PDF](https://img.shields.io/badge/OPEN_CERTIFICATE-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./certs/506d77ba-9147-45b9-ab76-b2af8f524b8f.pdf)
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" align="center">
 
 ### Certificate 03
 
-<img src="./assets/certificates/certificate-03.png" width="100%" alt="Certificate 03"/>
+[![PDF](https://img.shields.io/badge/OPEN_CERTIFICATE-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./certs/82c655b2-f462-4d8f-a275-d416b4713740.pdf)
 
 </td>
+
 <td width="50%" align="center">
 
-### Certificate 04
+### IBM Design Certificate
 
-<img src="./assets/certificates/certificate-04.png" width="100%" alt="Certificate 04"/>
+[![IBM](https://img.shields.io/badge/OPEN_CERTIFICATE-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](./certs/IBMDesign20261002-21-x9g1sf.pdf)
 
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### Certificate 05
+
+[![PDF](https://img.shields.io/badge/OPEN_CERTIFICATE-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./certs/b6deb2c8-b935-4144-9cf7-841ba7dee59f.pdf)
+
+</td>
+
+<td width="50%" align="center">
+
+### Certificate 06
+
+[![PDF](https://img.shields.io/badge/OPEN_CERTIFICATE-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./certs/b75ba153-f371-446b-8123-39ec9074835a.pdf)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### Certificate 07
+
+[![PDF](https://img.shields.io/badge/OPEN_CERTIFICATE-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./certs/dd6fe886-950c-4067-9988-3a053e76e36a.pdf)
+
+</td>
+
+<td width="50%" align="center">
+
+### Certificate 08
+
+[![PDF](https://img.shields.io/badge/OPEN_CERTIFICATE-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./certs/ed33096a-de62-4d23-a149-f5dd21bc3a35.pdf)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+### TB Mukt Bharat Abhiyan — Quiz Certificate
+
+<a href="./certs/Quiz%20on%20TB%20Mukt%20Bharat%20Abhiyan_Certificate_Ishan%20Singh.png">
+  <img src="./certs/Quiz%20on%20TB%20Mukt%20Bharat%20Abhiyan_Certificate_Ishan%20Singh.png" width="75%" alt="TB Mukt Bharat Abhiyan Quiz Certificate"/>
+</a>
+
+</td>
+
+</tr>
+
 </table>
 
-### Adding more certificates
-
-```html
-<tr>
-<td width="50%" align="center">
-
-### Certificate Name
-
-<img src="./assets/certificates/your-certificate.png" width="100%" alt="Certificate Name"/>
-
-</td>
-</tr>
-```
-
-</details>
-
----
-
-## 08 — CURRENT ROUTE
 ---
 
 ## 08 — CURRENT ROUTE
