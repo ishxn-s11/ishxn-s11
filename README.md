@@ -333,6 +333,11 @@ Once card.svg exists in the repository, you can replace or supplement the stats 
 
 </div>
 
+<div align="center>
+[**Browse the interactive portfolio**](https://ishxn-s11.github.io/deep-ml/) to replay this filling in over time.
+
+</div>
+
 ## 07 — CERTIFICATES & Other Stuffs
 
 <div align="center">
@@ -348,6 +353,8 @@ A collection of certificates and learning credentials from courses, programs, ch
 </div>
 
 <br/>
+
+<div align="center">
 
 <table>
 
@@ -453,7 +460,7 @@ A collection of certificates and learning credentials from courses, programs, ch
 </tr>
 
 </table>
-
+</div>
 ---
 
 ## 08 — CURRENT ROUTE
