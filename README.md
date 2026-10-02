@@ -443,16 +443,14 @@ A collection of certificates and learning credentials from courses, programs, ch
 
 [![Certificate](https://img.shields.io/badge/OPEN_CERTIFICATE-PNG-22C55E?style=for-the-badge&logo=image&logoColor=white)](./certs/Quiz%20on%20TB%20Mukt%20Bharat%20Abhiyan_Certificate_Ishan%20Singh.png)
 
+</tr>
+
+<tr>
 <td colspan="2" align="center">
 
 ### NASA Adopt A Pixel
 
 [![Certificate](https://img.shields.io/badge/OPEN_CERTIFICATE-PNG-22C55E?style=for-the-badge&logo=image&logoColor=white)](./certs/WhatsApp%Image%2026-10-03%at%12.04.24%AM.jpeg)
-
-</td>
-
-</td>
-
 
 </td>
 
