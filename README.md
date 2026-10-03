@@ -395,7 +395,7 @@ A collection of certificates and learning credentials from courses, programs, ch
 
 <td width="50%" align="center">
 
-### IBM Design Certificate
+### IBM Quantum Computing Certificate
 
 [![IBM](https://img.shields.io/badge/OPEN_CERTIFICATE-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](./certs/IBMDesign20261002-21-x9g1sf.pdf)
 
