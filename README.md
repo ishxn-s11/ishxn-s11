@@ -335,12 +335,21 @@ Once card.svg exists in the repository, you can replace or supplement the stats 
 
 <br>
 
-<div align="center>
-  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishxn-s11/deep-ml/main/coverage.svg" alt="Deep-ML Coverage" />
-</p>
+# TrenTorch
 
+<div align="center">
+
+<a href="https://trentorch.com/">
+  <img src="https://img.shields.io/badge/TrenTorch-ML%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="TrenTorch"/>
+</a>
+
+<br/><br/>
+
+<a href="https://trentorch.com/">
+  <img src="https://img.shields.io/badge/OPEN_TREN TORCH-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open TrenTorch"/>
+</a>
+
+<br/><br/>
 </div>
 
 ## 07 — CERTIFICATES & Other Stuffs
