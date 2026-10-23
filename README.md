@@ -340,7 +340,13 @@ Once card.svg exists in the repository, you can replace or supplement the stats 
 <div align="center">
 
 <a href="https://trentorch.com/">
-  <img src="https://img.shields.io/badge/TrenTorch-ML%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="TrenTorch"/>
+  <img src="https://img.shields.io/badge/TREN TORCH-ML%20PRACTICE-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="TrenTorch"/>
+</a>
+
+<br/><br/>
+
+<a href="https://trentorch.com/">
+  <img src="https://img.shields.io/badge/OPEN_PROFILE-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open TrenTorch"/>
 </a>
 
 <br/><br/>
