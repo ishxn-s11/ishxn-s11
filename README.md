@@ -359,7 +359,10 @@ Once card.svg exists in the repository, you can replace or supplement the stats 
 </div>
 <br>
 <div align="center">
+[Deep-ML](https://www.deep-ml.com). 
 ![Coverage](./coverage.svg)
+
+[**Browse the interactive portfolio**](https://ishxn-s11.github.io/deep-ml/) to replay this filling in over time.
 </div>
 
 
