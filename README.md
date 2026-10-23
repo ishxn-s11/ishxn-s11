@@ -357,6 +357,12 @@ Once card.svg exists in the repository, you can replace or supplement the stats 
 
 <br/><br/>
 </div>
+<br>
+<div align="center">
+![Coverage](./coverage.svg)
+</div>
+
+
 
 ## 07 — CERTIFICATES & Other Stuffs
 
